@@ -1,0 +1,57 @@
+body{
+    background-color: darkturquoise;
+    max: width 100% height:550px ;
+}
+.form{
+    background-color: darkslategray;
+    padding:20px;
+    margin:auto;
+    width: 35vw;
+    height:480px;
+    margin-top:5%;
+    text-align: center;
+    border-radius: 20px;
+    border-color: transparent;
+    
+} 
+h2{
+    font-family: sans-serif;
+    letter-spacing:1px;
+    color:beige;
+
+}
+*{
+    color:beige;
+}
+label{
+    font-size: medium;
+    letter-spacing: 1.5px;
+    font-family: serif;   
+}
+input{
+    background-color: transparent;
+    border-radius: 20px;
+    border-color: darkturquoise;
+    height:20px;
+    color:darkturquoise;
+}
+.conditions{
+    display: inline;
+}
+#check{left:0px;
+    position: relative;
+    width: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+}
+#button{
+    width: 140px;
+    height: 30px;
+    color:beige;
+    background-color: darkturquoise;
+    border:transparent;
+    border-radius: 20px;
+}
